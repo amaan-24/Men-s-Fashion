@@ -47,6 +47,14 @@ const products = [
     image: 'https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80',
     description: 'A versatile textured scarf in neutral tones for refined layering and warmth.',
   },
+  {
+    name: 'Mutton Steak',
+    category: 'Food',
+    price: '$12',
+    tag: 'New',
+    image: 'https://images.unsplash.com/photo-1604908177522-1f8a5e6d0b2b?auto=format&fit=crop&w=900&q=80',
+    description: 'Succulent mutton steak seasoned and grilled to perfection.',
+  },
 ];
 
 export default products;

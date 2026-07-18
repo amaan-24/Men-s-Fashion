@@ -4,8 +4,8 @@ function Contact() {
       <section className="rounded-[2rem] border border-slate-200 bg-white/90 p-8 shadow-sm">
         <div className="space-y-6">
           <p className="text-sm uppercase tracking-[0.35em] text-slate-600">Contact</p>
-          <h1 className="text-3xl font-semibold text-slate-900">Get in touch with Mens Fashion</h1>
-          <p className="max-w-2xl text-sm leading-7 text-slate-600">Questions about style, fits, or new arrivals? Drop a message and get help building the perfect menswear wardrobe.</p>
+          <h1 className="text-3xl font-semibold text-slate-900">Get in touch with Click and Collect</h1>
+          <p className="max-w-2xl text-sm leading-7 text-slate-600">Questions about products, availability, or new arrivals? Drop a message and get help finding the perfect items for your collection.</p>
         </div>
       </section>
 
