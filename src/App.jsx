@@ -17,8 +17,8 @@ function App() {
       <header className="mx-auto max-w-6xl px-6 py-6 sm:px-8 lg:px-12">
         <div className="flex flex-col gap-4 rounded-3xl border border-slate-200 bg-white px-5 py-4 shadow-sm sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <p className="text-sm uppercase tracking-[0.35em] text-slate-600">Mens Fashion</p>
-            <p className="mt-1 text-2xl font-semibold text-slate-900">Mens Fashion</p>
+            <p className="text-sm uppercase tracking-[0.35em] text-slate-600">Click and Collect</p>
+            <p className="mt-1 text-2xl font-semibold text-slate-900">Click and Collect</p>
           </div>
           <nav className="flex flex-wrap gap-4 text-sm font-medium text-slate-600">
             {navItems.map((item) => (
